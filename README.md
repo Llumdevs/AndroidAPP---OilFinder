@@ -70,9 +70,9 @@ Thanks to this project, which was my first real application, I was able to learn
 ## 📸 Capturas de pantalla
 
 <p align="center">
-  <img src="screenshots/home.png" alt="Home" width="200"/>
-  <img src="screenshots/map.png" alt="Mapa" width="200"/>
-  <img src="screenshots/menu.png" alt="Menu" width="200"/>
-  <img src="screenshots/ticket.png" alt="Tickets" width="200"/>
+  <img src="screenshots/home.jpg" alt="Home" width="200"/>
+  <img src="screenshots/map.jpg" alt="Mapa" width="200"/>
+  <img src="screenshots/menu.jpg" alt="Menu" width="200"/>
+  <img src="screenshots/ticket.jpg" alt="Tickets" width="200"/>
 </p>
 
